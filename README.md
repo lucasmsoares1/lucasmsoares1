@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Soares</h1>
 
-<img justify="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" height="auto" align="right" alt="computer">
+<img justify="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" height="auto" align="right" alt="computer">
 
 <p align="left"> 
   I'm looking for my first opportunity as a front-end developer. I am passionate about web development and I strive to improve everyday.
