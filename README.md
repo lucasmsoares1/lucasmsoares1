@@ -22,7 +22,7 @@
 
 <div align="left">
   <a href="https://github.com/lucasmsoares1">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmsoares1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=lucasmsoares1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 <p align="left">
