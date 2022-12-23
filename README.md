@@ -1,28 +1,49 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Soares</h1>
-<img justify="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="360px" "height="auto" align="right" alt="computer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7b01ff&height=120&section=header"/>
 
-<p align="left"> 
-  I'm looking for my first opportunity as a front-end developer. I am passionate about web development and I strive to improve everyday.
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8256e7&size=35&center=true&vCenter=true&width=1000&lines=Hello+I'm+Lucas+and+I'm+18+years+old;I'm+from+Brasil,+RJ;I'm+studiyng+Front-End+Development:%29)](https://git.io/typing-svg)
 
-<p align="left">
-  🔥 Skills:
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">             
-</p>
-<p align="left">
-  💻 Editors: <strong>Neovim / VScode</strong>
-</p>
+<div>
+<div align="left">
 
-<br>
+  ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
+  - 🔥 A passionate Self-taught Front-end development
+
+  - 🔭 Currently learning Web Development by Self
+
+  - 💻 Focusing in vanilla javascript
+
+  - ⚡ Fun fact: Karate Nerd 🥋
+
+  - 👨‍💻 More at [lucassoares.vercel.app](https://lucassoares.vercel.app)
+  
+  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=lucasmsoares1&show_icons=true&count_private=true&hide_border=true&title_color=8256e7&icon_color=8256e7&text_color=8256e7&bg_color=0d1117" alt="Lucas Soares stats" /> 
+  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsoares1&layout=compact&hide_border=true&title_color=8256e7&text_color=8256e7&bg_color=0d1117" />
+</div>
+
 
 <div align="left">
-  <a href="https://github.com/lucasmsoares1">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=lucasmsoares1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> 
+
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> 
+  
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" />
+          
+
+</div>
+</div>
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7b01ff&height=120&section=footer"/>
 
 
 
