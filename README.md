@@ -16,7 +16,7 @@
 
   - ⚡ Fun fact: Karate Nerd 🥋
 
-  - 👨‍💻 More at [lucassoares.vercel.app](https://lucassoares.vercel.app)
+  - 👨‍💻 More at [lucassoares.vercel.app](https://lucassoares.vercel.app) Not Finshed !
   
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=lucasmsoares1&show_icons=true&count_private=true&hide_border=true&title_color=8256e7&icon_color=8256e7&text_color=8256e7&bg_color=0d1117" alt="Lucas Soares stats" /> 
   <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsoares1&layout=compact&hide_border=true&title_color=8256e7&text_color=8256e7&bg_color=0d1117" />
